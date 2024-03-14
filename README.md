@@ -16,4 +16,4 @@ RobotControl.apk is the build android app. It was tested on Android 11, 13 and 1
 RobotControl.ino is the arduino code including the original potentiometer control and the Bluetooth Low Energy extension. Through the extension it is possibel to control the robot with an app.
 
 ## Circuit diagram
-![circuit daigramm](main/circuit_diagram.png)
+![circuit daigramm](/circuit_diagram.PNG)
