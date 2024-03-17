@@ -17,7 +17,7 @@ RobotControl.ino is the arduino code including the original potentiometer contro
 
 part_list contains the used parts.
 
-documentation contains explanations (german).
+manual explains the use of the robot (german)
 
 ## Circuit diagram
 ![circuit daigramm](assets/circuit_diagram.PNG)
